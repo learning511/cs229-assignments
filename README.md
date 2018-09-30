@@ -1,3 +1,4 @@
+# 课外算法python手工练习
 # CS229 Machine Learning Assignments in Python
 [![author](https://img.shields.io/badge/author-nsoojin-red.svg)](https://www.linkedin.com/in/soojinro) [![python](https://img.shields.io/badge/python-3.6-blue.svg)]() [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]() [![contribution](https://img.shields.io/badge/contribution-welcome-brightgreen.svg)]()
 
@@ -61,4 +62,4 @@ So in Octave/Matlab,
 * Recommender Systems
 
 ## Solutions
-You can check out my implementation of the assignments [here](https://github.com/nsoojin/coursera-ml-py-sj). I tried to vectorize all the solutions.
+You can check out my implementation of the assignments [here](https://github.com/learning511/cs229-assignments/tree/master/Solutions). I tried to vectorize all the solutions.
